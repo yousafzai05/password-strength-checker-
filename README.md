@@ -5,7 +5,7 @@
 ### A responsive frontend web application that analyzes password security in real-time using entropy calculations, character type detection, and pattern recognition.
 
 <p>
-  <a href="https://your-live-demo-link.com">
+  <a href="https://yousafzai05.github.io/password-strength-checker-/">
     <img src="https://img.shields.io/badge/🌐-Live_Demo-success?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
